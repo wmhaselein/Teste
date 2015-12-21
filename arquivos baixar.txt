@@ -1,7 +1,6 @@
 11) Ghostscript
 2) Ghostview
-3) Miktex
+3) Miktex- walter
 4) TexNicCenter
 
 Github
-No final
