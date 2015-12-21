@@ -1,0 +1,6 @@
+1) Ghostscript
+2) Ghostview
+3) Miktex
+4) TexNicCenter
+
+Github
