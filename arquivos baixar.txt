@@ -1,4 +1,4 @@
-1) Ghostscript
+11) Ghostscript
 2) Ghostview
 3) Miktex
 4) TexNicCenter
