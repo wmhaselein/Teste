@@ -1,6 +1,6 @@
 11) Ghostscript
 2) Ghostview
-3) Miktex
+3) Miktex Mexer na mesma linha
 4) TexNicCenter
 
 Github
